@@ -1,2 +1,2 @@
 # ZupEdu-Store
-Loja de aplicativos
+#Loja de aplicativos
